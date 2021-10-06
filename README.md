@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+## Infos
 
-This app is currently on work in progress
+This app is currently on work in progress.
+
+For infos -> thomas.baracco00@gmail.com
