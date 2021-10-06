@@ -6,4 +6,6 @@ A new Flutter project.
 
 This app is currently on work in progress.
 
+## Contacts
+
 For infos -> thomas.baracco00@gmail.com
